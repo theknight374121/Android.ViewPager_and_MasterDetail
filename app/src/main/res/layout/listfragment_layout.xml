@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android1:id="@+id/list_fragment"
+    xmlns:android1="http://schemas.android.com/apk/res/android"
+    android1:layout_height="match_parent"
+    android1:layout_width="match_parent"
+    android1:background="#303030"
+    android1:orientation="vertical"
+    android1:gravity="center">
+    <View
+        android1:layout_width="match_parent"
+        android1:layout_height="5dp">
+
+    </View>
+    <Button
+        android1:layout_width="match_parent"
+        android1:layout_height="0dp"
+        android1:layout_weight="1"
+        android1:text="Titanic"
+        android1:textSize="20dp"
+        android1:textColor="@color/mygreen"
+        android1:id="@+id/b1"
+        android1:background="#424242"
+        android1:textStyle="bold"
+        android1:typeface="sans" />
+    <View
+        android1:layout_width="match_parent"
+        android1:layout_height="5dp">
+
+    </View>
+    <Button
+        android1:layout_width="match_parent"
+        android1:layout_height="0dp"
+        android1:layout_weight="1"
+        android1:textSize="20dp"
+        android1:textColor="@color/mygreen"
+        android1:text="Avengers"
+        android1:id="@+id/b2"
+        android1:background="#424242"
+        android1:textStyle="bold"
+        android1:typeface="sans" />
+    <View
+        android1:layout_width="match_parent"
+        android1:layout_height="5dp">
+
+    </View>
+    <Button
+        android1:layout_width="match_parent"
+        android1:layout_height="0dp"
+        android1:layout_weight="1"
+        android1:textSize="20dp"
+        android1:textColor="@color/mygreen"
+        android1:text="The Dark Knight Rises"
+        android1:id="@+id/b3"
+        android1:background="#424242"
+        android1:textStyle="bold"
+        android1:typeface="sans" />
+    <View
+        android1:layout_width="match_parent"
+        android1:layout_height="5dp">
+
+    </View>
+    <Button
+        android1:layout_width="match_parent"
+        android1:layout_height="0dp"
+        android1:layout_weight="1"
+        android1:textSize="20dp"
+        android1:textColor="@color/mygreen"
+        android1:text="Star Wars I"
+        android1:id="@+id/b4"
+        android1:background="#424242"
+        android1:textStyle="bold"
+        android1:typeface="sans" />
+    <View
+        android1:layout_width="match_parent"
+        android1:layout_height="5dp">
+
+    </View>
+    <Button
+        android1:layout_width="match_parent"
+        android1:layout_height="0dp"
+        android1:layout_weight="1"
+        android1:textSize="20dp"
+        android1:textColor="@color/mygreen"
+        android1:text="Shrek 2"
+        android1:id="@+id/b5"
+        android1:background="#424242"
+        android1:typeface="sans"
+        android1:textStyle="bold" />
+    <View
+        android1:layout_width="match_parent"
+        android1:layout_height="5dp">
+
+    </View>
+
+</LinearLayout>
